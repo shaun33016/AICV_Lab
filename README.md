@@ -9,3 +9,4 @@ Programs done in Artificial Intelligence and Computer Vision lab.
  | 5 | [Implementation of TSP using Heuristic approach](https://github.com/shaun33016/AICV_Lab/blob/main/5.%20Implementation%20of%20TSP%20using%20Heuristic%20approach.ipynb) |
  | 6 | [Implement K-means Algorithm](https://github.com/shaun33016/AICV_Lab/blob/main/6.%20Implement%20K-means%20Algorithm.ipynb) |
  | 7 | [Implement K-nearest neighbor algorithm](https://github.com/shaun33016/AICV_Lab/blob/main/7.%20Implement%20K-nearest%20neighbor%20algorithm.ipynb) |
+ | 8 | [Implementation of Problem Solving strategies](https://github.com/shaun33016/AICV_Lab/blob/main/8.%20Implementation%20of%20Problem%20Solving%20strategies.ipynb) |
