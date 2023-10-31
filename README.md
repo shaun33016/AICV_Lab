@@ -10,3 +10,6 @@ Programs done in Artificial Intelligence and Computer Vision lab.
  | 06 | [Implement K-means Algorithm](https://github.com/shaun33016/AICV_Lab/blob/main/06.%20Implement%20K-means%20Algorithm.ipynb) |
  | 07 | [Implement K-nearest neighbor algorithm](https://github.com/shaun33016/AICV_Lab/blob/main/07.%20Implement%20K-nearest%20neighbor%20algorithm.ipynb) |
  | 08 | [Implementation of Problem Solving strategies](https://github.com/shaun33016/AICV_Lab/blob/main/08.%20Implementation%20of%20Problem%20Solving%20strategies.ipynb) |
+ | 09 | [Implement SVM](https://github.com/shaun33016/AICV_Lab/blob/main/09.%20Implement%20SVM.ipynb) |
+ | 10 | [Write a program to demonstrate working with images and videos using OpenCV](https://github.com/shaun33016/AICV_Lab/blob/main/10.%20Write%20a%20program%20to%20demonstrate%20working%20with%20images%20and%20videos%20using%20OpenCV.ipynb) |
+ | 11 | [Bitwise Operators](https://github.com/shaun33016/AICV_Lab/blob/main/11.%20Bitwise%20operators.ipynb) |
