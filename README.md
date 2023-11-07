@@ -13,3 +13,4 @@ Programs done in Artificial Intelligence and Computer Vision lab.
  | 09 | [Implement SVM](https://github.com/shaun33016/AICV_Lab/blob/main/09.%20Implement%20SVM.ipynb) |
  | 10 | [Write a program to demonstrate working with images and videos using OpenCV](https://github.com/shaun33016/AICV_Lab/blob/main/10.%20Write%20a%20program%20to%20demonstrate%20working%20with%20images%20and%20videos%20using%20OpenCV.ipynb) |
  | 11 | [Bitwise Operators](https://github.com/shaun33016/AICV_Lab/blob/main/11.%20Bitwise%20operators.ipynb) |
+ | 12 | [Draw geometric shapes](https://github.com/shaun33016/AICV_Lab/blob/main/12.%20Draw%20geometric%20shapes.ipynb)
