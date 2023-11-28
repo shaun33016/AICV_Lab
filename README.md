@@ -13,5 +13,8 @@ Programs done in Artificial Intelligence and Computer Vision lab.
  | 09 | [Implement SVM](https://github.com/shaun33016/AICV_Lab/blob/main/09.%20Implement%20SVM.ipynb) |
  | 10 | [Write a program to demonstrate working with images and videos using OpenCV](https://github.com/shaun33016/AICV_Lab/blob/main/10.%20Write%20a%20program%20to%20demonstrate%20working%20with%20images%20and%20videos%20using%20OpenCV.ipynb) |
  | 11 | [Bitwise Operators](https://github.com/shaun33016/AICV_Lab/blob/main/11.%20Bitwise%20operators.ipynb) |
- | 12 | [Draw geometric shapes](https://github.com/shaun33016/AICV_Lab/blob/main/12.%20Draw%20geometric%20shapes.ipynb)
- | 13 | [Morphological Operations](https://github.com/shaun33016/AICV_Lab/blob/main/13.%20Morphological%20Operations.ipynb)
+ | 12 | [Draw geometric shapes](https://github.com/shaun33016/AICV_Lab/blob/main/12.%20Draw%20geometric%20shapes.ipynb) |
+ | 13 | [Morphological Operations](https://github.com/shaun33016/AICV_Lab/blob/main/13.%20Morphological%20Operations.ipynb) |
+ | 14 | [Edge and contour detection](https://github.com/shaun33016/AICV_Lab/blob/main/14.%20Edge%20and%20contour%20detection.ipynb) |
+ | 15 | [Handwritten digit recognition using MNIST dataset](https://github.com/shaun33016/AICV_Lab/blob/main/15.%20Handwritten%20digit%20recognition%20using%20MNIST%20dataset.ipynb) |
+ | 16 | [HAAR feature based cascade classifier](https://github.com/shaun33016/AICV_Lab/blob/main/16.%20HAAR%20feature%20based%20cascade%20classifier.ipynb) |
